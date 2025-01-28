@@ -98,7 +98,7 @@ public class StreamState : EncodingJobInfo, IDisposable
                     return 3;
                 }
 
-                return 6;
+                return 1;
             }
 
             return 3;
